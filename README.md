@@ -1,1 +1,1 @@
-# mervebagislar.github.io
+Yazılım mühendisliği okurken 1.sınıfta yaptığım html css dosyası.
